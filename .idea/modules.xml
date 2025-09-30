@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/sl-express.iml" filepath="$PROJECT_DIR$/.idea/sl-express.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-express-gateway/sl-express-gateway.iml" filepath="$PROJECT_DIR$/sl-express-gateway/sl-express-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-express-parent/sl-express-parent.iml" filepath="$PROJECT_DIR$/sl-express-parent/sl-express-parent.iml" />
+    </modules>
+  </component>
+</project>
