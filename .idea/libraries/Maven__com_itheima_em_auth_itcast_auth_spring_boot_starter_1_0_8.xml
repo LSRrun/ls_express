@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.itheima.em.auth:itcast-auth-spring-boot-starter:1.0.8">
+    <CLASSES>
+      <root url="jar://D:/Apps/maven/mavenResp2/com/itheima/em/auth/itcast-auth-spring-boot-starter/1.0.8/itcast-auth-spring-boot-starter-1.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Apps/maven/mavenResp2/com/itheima/em/auth/itcast-auth-spring-boot-starter/1.0.8/itcast-auth-spring-boot-starter-1.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Apps/maven/mavenResp2/com/itheima/em/auth/itcast-auth-spring-boot-starter/1.0.8/itcast-auth-spring-boot-starter-1.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
