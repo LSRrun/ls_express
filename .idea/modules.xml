@@ -3,7 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/sl-express.iml" filepath="$PROJECT_DIR$/.idea/sl-express.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-express-common/sl-express-common.iml" filepath="$PROJECT_DIR$/sl-express-common/sl-express-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/sl-express-gateway/sl-express-gateway.iml" filepath="$PROJECT_DIR$/sl-express-gateway/sl-express-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-api/sl-express-ms-oms-api.iml" filepath="$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-api/sl-express-ms-oms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-domain/sl-express-ms-oms-domain.iml" filepath="$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-domain/sl-express-ms-oms-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-service/sl-express-ms-oms-service.iml" filepath="$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-service/sl-express-ms-oms-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-express-ms-user/sl-express-ms-user-api/sl-express-ms-user-api.iml" filepath="$PROJECT_DIR$/sl-express-ms-user/sl-express-ms-user-api/sl-express-ms-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-express-ms-user/sl-express-ms-user-domain/sl-express-ms-user-domain.iml" filepath="$PROJECT_DIR$/sl-express-ms-user/sl-express-ms-user-domain/sl-express-ms-user-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-express-ms-user/sl-express-ms-user-service/sl-express-ms-user-service.iml" filepath="$PROJECT_DIR$/sl-express-ms-user/sl-express-ms-user-service/sl-express-ms-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-express-web/sl-express-ms-web-customer/sl-express-ms-web-customer.iml" filepath="$PROJECT_DIR$/sl-express-web/sl-express-ms-web-customer/sl-express-ms-web-customer.iml" />
       <module fileurl="file://$PROJECT_DIR$/sl-express-parent/sl-express-parent.iml" filepath="$PROJECT_DIR$/sl-express-parent/sl-express-parent.iml" />
     </modules>
   </component>

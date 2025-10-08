@@ -5,6 +5,14 @@
       <list>
         <option value="$PROJECT_DIR$/sl-express-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/sl-express-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-web/sl-express-ms-web-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-user/sl-express-ms-user-api/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-user/sl-express-ms-user-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-user/sl-express-ms-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-common/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-service/pom.xml" />
       </list>
     </option>
   </component>

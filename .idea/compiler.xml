@@ -8,10 +8,26 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sl-express-gateway" />
+        <module name="sl-express-ms-oms-service" />
+        <module name="sl-express-ms-oms-api" />
+        <module name="sl-express-ms-user-domain" />
+        <module name="sl-express-common" />
+        <module name="sl-express-ms-oms-domain" />
+        <module name="sl-express-ms-user-api" />
+        <module name="sl-express-ms-web-customer" />
+        <module name="sl-express-ms-user-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="sl-express-common" target="11" />
       <module name="sl-express-gateway" target="11" />
+      <module name="sl-express-ms-oms-api" target="11" />
+      <module name="sl-express-ms-oms-domain" target="11" />
+      <module name="sl-express-ms-oms-service" target="11" />
+      <module name="sl-express-ms-user-api" target="11" />
+      <module name="sl-express-ms-user-domain" target="11" />
+      <module name="sl-express-ms-user-service" target="11" />
+      <module name="sl-express-ms-web-customer" target="11" />
       <module name="sl-express-parent" target="11" />
     </bytecodeTargetLevel>
   </component>
